@@ -39,3 +39,4 @@ package-lock.json
 /.vercel
 /.yarn
 .yarnrc.yml
+.env
